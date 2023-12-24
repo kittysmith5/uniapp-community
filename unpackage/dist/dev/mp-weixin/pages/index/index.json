@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "index-waterfall-sns-left": "/pages/index/index-waterfall-sns-left",
+    "index-waterfall-sns-right": "/pages/index/index-waterfall-sns-right",
+    "waterfall-sns": "/components/snsWaterfall"
+  }
+}

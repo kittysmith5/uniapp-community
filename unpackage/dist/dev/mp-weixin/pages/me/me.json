@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "me-u-waterfall-left": "/pages/me/me-u-waterfall-left",
+    "me-u-waterfall-right": "/pages/me/me-u-waterfall-right",
+    "u-avatar": "/node-modules/uview-ui/components/u-avatar/u-avatar",
+    "u-waterfall": "/node-modules/uview-ui/components/u-waterfall/u-waterfall"
+  }
+}

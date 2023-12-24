@@ -1,0 +1,33 @@
+{
+  "projectname": "study",
+  "setting": {
+    "compileHotReLoad": true
+  },
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "",
+          "pathName": "subpages/share/share",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "subpages/feedinfo/feedinfo",
+          "query": "id=12",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "subpages/newinfo/newinfo",
+          "query": "id=1",
+          "launchMode": "default",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

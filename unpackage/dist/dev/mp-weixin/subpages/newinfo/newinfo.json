@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "pic-blur": "/components/pic-blur/pic-blur",
+    "comment": "/components/comment/comment",
+    "html-parse": "/components/html-parse/parse"
+  }
+}
